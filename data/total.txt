@@ -1,6 +1,0 @@
-======Lesson: 1======
-abc
-======Lesson: 2======
-def
-======Lesson: 3======
-ghi
